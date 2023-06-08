@@ -1,0 +1,16 @@
+wikipedia-api~=0.5.4
+pyttsx3==2.90
+vosk~=0.3.45
+vosk-tts~=0.3.45
+termcolor==2.3.0
+sounddevice
+soundfile
+requests==2.30.0
+numpy
+audioplayer
+python-dateutil
+
+fastapi==0.95.2
+uvicorn[standard]
+fastapi-utils
+yandex-weather-api
