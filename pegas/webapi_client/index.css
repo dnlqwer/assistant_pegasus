@@ -1,0 +1,21 @@
+#wrapper {
+    max-width: 900px;
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#trigger {
+    align-self: flex-start;
+    margin: auto;
+}
+
+.gradient-border {
+  padding: 20px;
+  letter-spacing: 0.2em;
+  border: 1px solid;
+  border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+  border-image-slice: 1;
+}
