@@ -1,0 +1,8 @@
+{
+    "put_accent": true,
+    "put_yo": true,
+    "sample_rate": 24000,
+    "speaker": "alexandr",
+    "urlSileroRestServer": "http://127.0.0.1:5010",
+    "v": "1.0"
+}

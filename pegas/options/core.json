@@ -1,0 +1,21 @@
+{
+    "contextDefaultDuration": 10,
+    "contextRemoteWaitForCall": false,
+    "fuzzyThreshold": 0.5,
+    "isOnline": false,
+    "linguaFrancaLang": "ru",
+    "logPolicy": "cmd",
+    "mpcHcPath": "C:\\Program Files (x86)\\K-Lite Codec Pack\\MPC-HC64\\mpc-hc64_nvo.exe",
+    "mpcIsUse": true,
+    "mpcIsUseHttpRemote": false,
+    "playWavEngineId": "audioplayer",
+    "replyNoCommandFound": "Извини, я не понял",
+    "replyNoCommandFoundInContext": "Не понял...",
+    "replyOnlineRequired": "Я не могу сейчас это подсказать!",
+    "tempDir": "temp",
+    "ttsEngineId": "pyttsx",
+    "ttsEngineId2": "",
+    "useTTSCache": false,
+    "v": "3.0",
+    "voiceAssNames": "пегас|пегаса|пегасу"
+}

@@ -1,0 +1,7 @@
+{
+    "sayNoon": false,
+    "skipMinutesWhenZero": true,
+    "skipUnits": false,
+    "unitsSeparator": ", ",
+    "v": "1.2"
+}

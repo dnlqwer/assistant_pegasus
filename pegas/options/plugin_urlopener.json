@@ -1,0 +1,9 @@
+{
+    "cmds": {
+        "главная яндекс|главное яндекс": "https://yandex.ru/",
+        "ютуб|юту|ютюб": "https://www.youtube.com/results?search_query={}",
+        "яндекс": "https://yandex.ru/search/?text={}",
+        "википедия|вики": "https://ru.wikipedia.org/wiki/search/?text={}"
+    },
+    "v": "1.0"
+}
